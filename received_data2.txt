@@ -1,0 +1,1 @@
+This is a sample text file with exactly 100 bytes of content. The quick brown fox jumps over the lazy dog. 1234567890
